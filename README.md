@@ -61,6 +61,6 @@
 
 ###
 
-<a href="https://discord.com/users/419513619940900864"><img src="https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true" /></a>
+<p align="left">[![Discord Presence](https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true)](https://discord.com/users/419513619940900864)</p>
 
 ###
