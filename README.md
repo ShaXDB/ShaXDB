@@ -1,11 +1,13 @@
 <h2 align="left">Hello 👋! My name is ShaXDB and I'm a Developer, from Türkiye (currently in germany)</h2>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true)](https://discord.com/users/419513619940900864)
+
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShaXDB.ShaXDB&"  />
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true)](https://discord.com/users/419513619940900864)
+
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
