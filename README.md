@@ -2,10 +2,6 @@
 
 ###
 
-<a href="https://discord.com/users/419513619940900864"><img src="https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true" /></a>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShaXDB.ShaXDB&"  />
 </div>
@@ -50,7 +46,7 @@
 
 ###
 
-<img align="right" height="200" src="https://c.tenor.com/c2p7GU_gA_YAAAAd/tenor.gif"  />
+<img align="right" height="300" src="https://c.tenor.com/c2p7GU_gA_YAAAAd/tenor.gif"  />
 
 ###
 
@@ -66,5 +62,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaXDB/ShaXDB/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShaXDB/ShaXDB/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<a href="https://discord.com/users/419513619940900864"><img src="https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true" /></a>
 
 ###
