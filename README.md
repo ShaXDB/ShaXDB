@@ -1,5 +1,7 @@
 <h2 align="left">Hello 👋! My name is ShaXDB and I'm a Developer, from Türkiye (currently in germany)</h2>
 
+<div align="center"><img src="https://lanyard.cnrad.dev/api/419513619940900864?theme=dark&animated=true&borderRadius=15px&showDisplayName=true&hideDiscriminators=false" /></div>
+
 ###
 
 <div align="center">
@@ -43,10 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<div align="center"><img src="https://lanyard.cnrad.dev/api/419513619940900864?theme=dark&animated=true&borderRadius=15px&showDisplayName=true&hideDiscriminators=false" /></div>
 
 ###
 
