@@ -6,8 +6,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShaXDB.ShaXDB&"  />
 </div>
 
-###
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true)](https://discord.com/users/419513619940900864)
 
 ###
