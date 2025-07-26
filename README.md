@@ -48,12 +48,6 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true"  />
-</div>
-
-###
-
 <img align="right" height="300" src="https://c.tenor.com/c2p7GU_gA_YAAAAd/tenor.gif"  />
 
 ###
@@ -65,8 +59,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShaXDB/ShaXDB/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="250" src="https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true"  />
+</div>
 
 ###
