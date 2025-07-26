@@ -1,7 +1,5 @@
 <h2 align="left">Hello 👋! My name is ShaXDB and I'm a Developer, from Türkiye (currently in germany)</h2>
 
-<div align="center"><img src="https://lanyard.cnrad.dev/api/419513619940900864?theme=dark&animated=true&borderRadius=15px&showDisplayName=true&hideDiscriminators=false" /></div>
-
 ###
 
 <div align="center">
@@ -10,6 +8,9 @@
 
 ###
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/419513619940900864?idleMessage=AFK&showDisplayName=true)](https://discord.com/users/419513619940900864)
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
