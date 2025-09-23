@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is ShaXDB and I'm a Developer, from Türkiye (currently in germany)</h2>
+<h2 align="left">Hello 👋! My name is ShaXDB and I'm a Developer, from Türkiye (currently in Germany)</h2>
 
 ###
 
